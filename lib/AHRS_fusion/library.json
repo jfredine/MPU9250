@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+  "name": "AHRS_fusion",
+  "version": "1.0.0",
+  "description": "Library implementing Mahony and Madgwick AHRS algorithms",
+  "authors": 
+  [
+    {
+      "name": "John Fredine",
+      "email": "jfredine@hotmail.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "Arduino",
+  "headers": ["Madgwick.h",  "Mahony.h"]
+}

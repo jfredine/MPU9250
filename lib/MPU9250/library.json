@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+  "name": "MPU9250",
+  "version": "1.0.0",
+  "description": "Library for MPU9250 motion sensor",
+  "authors": 
+  [
+    {
+      "name": "John Fredine",
+      "email": "jfredine@hotmail.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "Arduino",
+  "headers": ["MPU9250.h"]
+}
